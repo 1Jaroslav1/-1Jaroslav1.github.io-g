@@ -1,0 +1,6 @@
+@media (min-width: 575px) {
+  .header {
+    padding-top: 30px;
+    padding-bottom: 30px; }
+    .header__info__image {
+      display: none; } }
